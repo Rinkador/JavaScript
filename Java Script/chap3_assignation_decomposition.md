@@ -279,5 +279,4 @@ const students = [
 //Creer un nouveau tableau a partir du tableau d'objet existant
 //la fonction fléchée passée à map est exécutée. 
 //Elle utilise la déstructuration pour extraire les propriétés name, family, et age de chaque objet étudiant.
-
 ```
